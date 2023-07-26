@@ -1,0 +1,6 @@
+apt update && apt upgrade
+passwd root
+123
+123
+apt install xrdp
+clear
